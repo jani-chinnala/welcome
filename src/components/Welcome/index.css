@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.Container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #f0bb03;
+  font-family: Bree serif;
+  font-size: 60px;
+}
+
+.para {
+  color: #ffffff;
+  font-family: bree serif;
+  font-size: 30px;
+}
+
+.check {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  height: 30px;
+  width: 170px;
+  margin-top: 20px;
+}
+
+.check1 {
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 5px;
+  height: 30px;
+  width: 90px;
+}
